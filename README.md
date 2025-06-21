@@ -10,3 +10,7 @@ Assembled with z80asm
   z80asm.exe -nm -cim SH_ALL.S
 
 http://www.trs-80emulators.com/z80asm/
+
+Bug compatible with the production version of the IF1 v1
+
+CRC-16/CCITT checksum for this ROM is 0xC87A
